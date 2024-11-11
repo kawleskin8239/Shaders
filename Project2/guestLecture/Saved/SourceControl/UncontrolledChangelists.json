@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Kawleskin8239/Documents/GitHub/Shaders/Project2/guestLecture/Content/Fab/Megascans/3D/Small_Rock_ubgkeejiw/Medium/MI_ubgkeejiw.uasset",
+				"C:/Users/Kawleskin8239/Documents/GitHub/Shaders/Project2/guestLecture/Content/Fab/Megascans/3D/Small_Rock_ubgkeejiw/Medium/T_ubgkeejiw_2K_B.uasset",
+				"C:/Users/Kawleskin8239/Documents/GitHub/Shaders/Project2/guestLecture/Content/Fab/Megascans/3D/Small_Rock_ubgkeejiw/Medium/T_ubgkeejiw_2K_N.uasset",
+				"C:/Users/Kawleskin8239/Documents/GitHub/Shaders/Project2/guestLecture/Content/Fab/Megascans/3D/Small_Rock_ubgkeejiw/Medium/T_ubgkeejiw_2K_ORM.uasset",
+				"C:/Users/Kawleskin8239/Documents/GitHub/Shaders/Project2/guestLecture/Content/Fab/Megascans/3D/Small_Rock_ubgkeejiw/Medium/ubgkeejiw_tier_2.uasset"
+			]
+		}
+	]
+}
